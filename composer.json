@@ -14,6 +14,10 @@
     {
       "name": "Paweł Plewa",
       "email": "pawel.plewa@gmail.com"
+    },
+    {
+      "name": "Oleh Homa",
+      "email": "ussgeniuss@gmail.com"
     }
   ],
   "require": {
@@ -31,7 +35,7 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "pepeEpe\\FastImageCompare\\": "src"
+      "devoleg\\FastImageCompare\\": "src"
     }
   }
 }
