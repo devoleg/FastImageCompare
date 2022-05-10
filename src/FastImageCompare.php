@@ -8,7 +8,7 @@
  */
 
 
-namespace pepeEpe\FastImageCompare;
+namespace devoleg\FastImageCompare;
 
 use FastImageSize\FastImageSize;
 use Symfony\Component\Cache\Adapter\AdapterInterface;

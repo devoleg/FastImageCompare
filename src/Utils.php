@@ -7,7 +7,7 @@
  *
  */
 
-namespace pepeEpe\FastImageCompare;
+namespace devoleg\FastImageCompare;
 
 use RecursiveDirectoryIterator;
 use RecursiveIteratorIterator;

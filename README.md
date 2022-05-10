@@ -1,6 +1,8 @@
 # Fast Image Compare for PHP
 PHP library for comparing images
 
+Originally by https://github.com/yncki
+
 ### What this library does
 - compare two images
 - check two images are similar or different

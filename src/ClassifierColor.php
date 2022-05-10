@@ -1,6 +1,6 @@
 <?php
 
-namespace pepeEpe\FastImageCompare;
+namespace devoleg\FastImageCompare;
 
 class ClassifierColor extends ClassificableBase
 {

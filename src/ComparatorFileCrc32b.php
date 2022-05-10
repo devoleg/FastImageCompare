@@ -7,7 +7,7 @@
  *
  */
 
-namespace pepeEpe\FastImageCompare;
+namespace devoleg\FastImageCompare;
 use Psr\Log\InvalidArgumentException;
 use Symfony\Component\Cache\Adapter\AdapterInterface;
 

@@ -6,7 +6,7 @@
  * Time: 16:06
  */
 
-use pepeEpe\FastImageCompare\FastImageCompare;
+use devoleg\FastImageCompare\FastImageCompare;
 
 class FastImageCompareTest extends PHPUnit_Framework_TestCase
 {

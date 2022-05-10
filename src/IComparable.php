@@ -7,7 +7,7 @@
  *
  */
 
-namespace pepeEpe\FastImageCompare;
+namespace devoleg\FastImageCompare;
 
 interface IComparable {
 

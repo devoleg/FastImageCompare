@@ -1,5 +1,6 @@
 {
   "name": "devoleg/php-fast-image-compare",
+  "version": "1.0.8",
   "description": "Image Comparer with different aspect ratios and sizes. Can extract duplicate and unique images in directory and much more.",
   "keywords":[
     "image",
